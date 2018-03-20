@@ -43,3 +43,6 @@ html, body {
 	margin: 10px;
 }
 
+.big-block h1 {
+	text-align: center;
+}

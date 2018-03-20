@@ -1,0 +1,45 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.main-wrapp {
+	width: 100%;
+	height: 100%;
+	display: flex;
+}
+
+.blue-block {
+	display: flex;
+	justify-content: flex-end;
+	background: lightblue;
+	width: 1000px;
+	height: 100%;
+}
+
+.pink-block {
+	display: flex;
+	background: pink;
+	width: 440px;
+	height: 100%;
+}
+
+.big-block {
+	border: 1px solid black;
+	width: 500px;
+	height: 2000px;
+	margin: 10px;
+}
+
+.small-block {
+	border: 1px solid black;
+	width: 250px;
+	height: 2000px;
+	margin: 10px;
+}
+
